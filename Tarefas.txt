@@ -1,1 +1,2 @@
 -criar a ws
+- criar o pacote
