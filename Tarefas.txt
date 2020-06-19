@@ -1,2 +1,3 @@
 -criar a ws
 - criar o pacote
+- sugestao do usuario 2
